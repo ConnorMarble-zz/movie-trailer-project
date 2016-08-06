@@ -4,7 +4,7 @@ movie-trailer-project is a way that users can view my favorite movies and watch 
 ```
 1. Download the movie-trailer-project
 
-2. Make sure media.py, entertainment.py and  fresh_tomatoes.py are in one folder
+2. Make sure media.py, entertainment.py and fresh_tomatoes.py are in one folder
 
 
 3. Open CMD prompt
