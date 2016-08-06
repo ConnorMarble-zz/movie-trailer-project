@@ -1,3 +1,6 @@
+""" The Udacity project, movie trailer project."""
+
+#specify the file path to make sure we can import the file sucessfully
 import media
 import fresh_tomatoes
  
