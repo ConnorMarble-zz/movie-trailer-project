@@ -1,7 +1,7 @@
 #movie-trailer-project
 movie-trailer-project is a way that users can view my favorite movies and watch their trailers.
 ##How to Use
-`
+```
 1. Download the movie-trailer-project
 2. Make sure media.py, entertainment.py and  fresh_tomatoes.py are in one folder
 
@@ -11,4 +11,4 @@ movie-trailer-project is a way that users can view my favorite movies and watch 
 
 5. This should generate and show a webpage will movies list.
 
-`
+```
