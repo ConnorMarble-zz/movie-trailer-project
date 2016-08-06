@@ -12,5 +12,5 @@ movie-trailer-project is a way that users can view my favorite movies and watch 
 
 4. Run entertainment.py program. ($python media.py)
 
-5. This should generate and show a webpage with movies list
+5. This should generate and show a webpage will movies list
 ```
